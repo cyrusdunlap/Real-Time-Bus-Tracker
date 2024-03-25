@@ -14,6 +14,7 @@ Added a night theme to the map as well as creating custom bus icons.
 I would like to give more information on the icons for say ride capacity and next stop available
 
 ## Preview
+https://github.com/cyrusdunlap/Real-Time-Bus-Tracker/assets/155677876/0243f0c8-45d4-4c65-a170-e8e38b7c5dd7
 
 ### License
 MIT License
