@@ -1,7 +1,7 @@
 # Real Time Bus Tracker
 
 ## Description
-Show real-time buses moving between MIT and Harvard.
+Show real-time buses moving between MIT and Harvard. 
 Added a night theme to the map as well as creating custom bus icons.
 
 ## How to run
