@@ -1,8 +1,7 @@
 # Real Time Bus Tracker
 
 ## Description
-Show real-time buses moving between MIT and Harvard. 
-Added a night theme to the map as well as creating custom bus icons.
+Show real-time buses moving between MIT and Harvard. Added a night theme to the map as well as creating custom bus icons.
 
 ## How to run
 1. Go to the Google Maps Platform and enable Maps Javascript API in a new Google Cloud Project
