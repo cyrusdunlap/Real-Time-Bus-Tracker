@@ -13,6 +13,8 @@ Added a night theme to the map as well as creating custom bus icons.
 ## Road map for future improvements
 I would like to give more information on the icons for say ride capacity and next stop available
 
+## Preview
+
 ### License
 MIT License
 
